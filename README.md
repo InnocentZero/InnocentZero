@@ -1,11 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**InnocentZero/InnocentZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on ...
 
-Here are some ideas to get you started:
+  - CCLS: A native C library to provide generic container support, better string support, and a thin wrapper over command line arguments. 
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<!--
+**InnocentZero/InnocentZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 -->
