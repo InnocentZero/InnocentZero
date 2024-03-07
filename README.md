@@ -2,7 +2,8 @@
 
 ## 🔭 I’m currently working on ...
 
-  - CCLS: A native C library to provide generic container support, better string support, and a thin wrapper over command line arguments. 
+  - CCLS: A native C library to provide generic container support, better string support, and a thin wrapper over command line arguments.
+  - Pacdef: A multi-backend declarative package manager for Linux.
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
